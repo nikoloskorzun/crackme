@@ -1,0 +1,7 @@
+abc
+bcd
+
+len<20
+general case
+[a][b][c]
+[a+1][b+1][c+1]
